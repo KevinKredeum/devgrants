@@ -4,7 +4,7 @@ To submit a proposal, please create a PR adding a file to this folder filling ou
 
 **Name of Project:** NFTs IPFS Subgraph
 
-**Proposer:** Kredeum Team (Github page) 
+**Proposer:** Kredeum Team (https://github.com/Kredeum) 
 
 **Do you agree to open source all work you do on behalf of this RFP and dual-license under MIT and APACHE2 licenses?:** Yes
 
