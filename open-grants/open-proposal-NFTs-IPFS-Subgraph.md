@@ -81,7 +81,9 @@ Deployment of this subgraph on other networks failed due to various problems tha
    
 
 Kredeum already allows the possibility for everyone, to easily create, mint, and sell NFTs in a few clicks, and for the moment, two solutions we developed are now live : 
+
 -Our Kredreum WordPress Plugin gives the opportunity to 64M wordpress website editors to mint and sell existing media already uploaded on their website. 
+
 -Our interactive NFT decentralized wallet, offering the opportunity to create multi-collection through smart contracts.
 
 1st prize with polygon during GR9 and IPFS Prize ” Framework Support '' with Protocol Labs, we want to implement IPFS to our development to make life even easier!
